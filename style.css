@@ -18,6 +18,7 @@ body{
     width: auto;
     height: 240px;
     display: flex;
+    box-shadow: 0 0 5px 2px hsl(214, 17%, 51%);
 }
 .hero {
     width: 280px;
